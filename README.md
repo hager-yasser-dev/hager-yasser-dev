@@ -1,5 +1,8 @@
-<h1 align="center">Hager Yasser Youssef</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=180&section=header&text=Hager%20Yasser&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
+<!-- <h1 align="center">Hager Yasser Youssef</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I'm+Hager;MIS+Student+%F0%9F%8E%93;Learning+Front-End+%26+Data+Analysis" alt="Typing animation" />
+</p>
 <p align="center">
   <b>MIS Student 🎓</b><br>
   <i>Building my foundation in web development and system analysis</i>
@@ -55,4 +58,4 @@ University and personal projects will be added here as I complete them.
 ---
 
 <p align="center">Thanks for visiting my profile! 💜</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=120&section=footer" width="100%" alt="footer" />
